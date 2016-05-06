@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">10 NAJ MJESTA HRVATSKE</string>
+    <string name="opis_dubrovnik">Samoprozvani biser Jadrana jedna je od najposjećenijih hrvatskih destinacija. Sa Srđa se pruža najbolji pogled na kulu Lovrijenac, krovove u boji terakote i litice. Osim dubrovačkih zidina koje su pod zaštitom UNESCO-a, grad je poznat po baroknim crkvama, ulicama i palači Sponza iz 16. stoljeća.</string>
+    <string name="opis_plitivce">Azurnoplava jezera, nevjerojatni slapovi i šumovite planine nezaobilazan su dio najslavnijeg nacionalnog parka Plitvička jezera. Posjetitelji mogu razgledati 16 jezera i naučiti o prirodnim sedrenim barijerama, ali oči trebaju držati otvorenima jer smeđi medvjed i ris vrebaju iz okolnih šuma.</string>
+    <string name="opis_zagorje">Nedaleko od Zagreba prema granici sa Slovenijom pruža se pitoreskno Zagorje koje je dom srednjovjekovnih dvoraca, vinograda i termalnih izvora. Posjetitelji mogu istražiti povijesni dio Krapine, posjetiti kleti i izgubiti se u dvorcu iz bajke, Trakošćanu.</string>
+    <string name="opis_makarska">Na pola puta između Splita i Dubrovnika smjestila se Makarska. Puno smirenija nego njezini popularni susjedi, ona i dalje nudi puno toga. Plaže idealne za obitelj, živopisne luke i pogled na Biokovo, glavni su aduti ovog grada. Također, pomaže i blizina Omiša, doma Gusarskog festivala i obližnjih otoka kao što je Brač.</string>
+    <string name="opis_mljet">Skrivene lagune, guste borove šume i refleksija sunca u moru, čine Mljet pravim rajem za sve koji vole biti na otvorenom. Posjetitelji mogu uživati u vožnji biciklom, planinarenju i kajakarenju te istraživati Odisejevu špilju.</string>
+    <string name="opis_split">Iako drugi najveći grad u Hrvatskoj i velika luka, to nije ono što Split čini posebnim. To je Dioklecijanova palača koja je pod zaštitom UNESCO-a. Osim razgledavanja, grad nudi i druge mogućnosti - od raftinga i penjanja do jedrenja.</string>
+    <string name="opis_peljesac">Pelješac je poznat po vinima, naročito Dingaču i Postupu, ali to nije sve što nudi svojim posjetiteljima. Nakon kušanja odličnih vina tu su kamenice i dagnje u Malom Stonu, jedrenje na dasci u Vignju i uživanje u planini Sveti Ilija.</string>
+    <string name="opis_rovinj">Tradicionalno ribarsko mjesto Rovinj ima poseban šarm. Nije kao luksuzna odmarališta na jugu, ali nudi za svakog ponešto. Sunčanje, istraživanje bogatog arhipelaga i planinarenje zadovoljit će i najkritičnije posjetitelje.</string>
+    <string name="opis_zagreb">Iako manje razvikan nego gradovi na obali, Zagreb ima posebnu draž. Elegantni glavni grad isplati se posjetiti te obići njegove trgove, Lenucijevu potkovu i muzeje, voziti se uspinjačom na Gornji grad ili pak pobjeći u obližnje Zagorje.</string>
+    <string name="opis_kornati">Ako tražite najbolje mjesto za ronjenje, to su Kornati. Među 140 otoka tog arhipelaga može se pronaći i nenaseljeno kopno, živopisni grebeni i \"kaleidoskop tropskih riba\".</string>
+    <string name="dubrovacka_neretvanska">Dubrovačko-Neretvanska županija</string>
+    <string name="splitsko_dalmatinska">Splitsko-dalmatinska županija</string>
+    <string name="krapinsko_zagorska">Krapinsko-zagorska županija</string>
+    <string name="licko_senjska">Ličko-senjska županija</string>
+    <string name="zagrebacka">Zagrebačka županija / Grad Zagreb</string>
+    <string name="sibensko_kninska">Šibensko-kninska županija</string>
+    <string name="istarska">Istarska županija</string>
+    <string name="podrucje">Područje</string>
+    <string name="nacionalni_park">Nacionalni park</string>
+    <string name="dubrovnik">Dubrovnik</string>
+    <string name="plitvice">Plitvička jezera</string>
+    <string name="grad">Grad</string>
+    <string name="zagorje">Hrvatsko zagorje</string>
+    <string name="makarska">Makarska</string>
+    <string name="mljet">Mljet</string>
+    <string name="split">Split</string>
+    <string name="peljesac">Poluotok Pelješac</string>
+    <string name="rovinj">Rovinj</string>
+    <string name="zagreb">Zagreb</string>
+    <string name="kornati">Kornati</string>
+    <string name="otok">Otok</string>
+</resources>
